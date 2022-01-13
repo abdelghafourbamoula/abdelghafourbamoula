@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about what you want 😄
 - 📫 How to reach me: abdelghafourbamoula@gmail.com
 
+<br/>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=panda" alt="zendy199x" /></div>
+
+<br /><br/>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&theme=gotham&layout=compact&hide=html" alt="zendy199x" /></div>
+
