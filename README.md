@@ -33,9 +33,10 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 
 - :telescope: I’m currently a Big Data and Information System Student
 
+- :zap: I'm interested math and statistics, problem solving, AI, data science, Business Intelligence, Data Analysis ...
+
 - :seedling: Exploring Hadoop Ecosystem and machine learning algorithms
 
-- :zap: I like math and statistics, problem solving, AI, data science, exploring new tools, movies and rading ...
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelghafourbamoula@gmail)
 
@@ -49,10 +50,14 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark)]()
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark)]()
+![snake gif](https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg)
 
-![snake gif](https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake.gif)
+#### Profile Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark)
+
