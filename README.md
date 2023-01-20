@@ -55,3 +55,4 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark)]()
 
+![snake gif](https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake.gif)
