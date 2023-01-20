@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/KeEBCRFDk6XVoSLzhF/giphy.gif" width="100"/>
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -48,4 +48,10 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdelghafourbamoula&theme=dark&background=000000)]
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark)]()
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark)]()
+
