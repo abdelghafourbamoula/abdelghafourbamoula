@@ -101,7 +101,7 @@ I am a Data Science and BI Specialist from Morocco. <img src="https://media.giph
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<img style="margin: 10px" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" alt="sql server" height="50" />
+<img style="margin: 10px" src="./icons/microsoft-sql-server-96.svg" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" height="50" />
 </div>
 
@@ -112,13 +112,13 @@ I am a Data Science and BI Specialist from Morocco. <img src="https://media.giph
 
 ### :fire: My Stats :
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark" width="100%" />
-<div width="100%" style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" width="60%" height="85%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=html" width="40%" height="100%" />
+<div  style="display:flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" height="85%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=html" height="100%" />
 </div>
-<img src="https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg" width="40%" height="100%" />
+<img src="https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg" height="100%" />
 
 <br/>  
 <div align="center">
