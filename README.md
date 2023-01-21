@@ -64,7 +64,7 @@ I am a Data Science and BI Specialist from Morocco. <img src="https://media.giph
 ### DevOps  
 <div >  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" height="50" />
-<img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" alt="rstudio" height="50" />
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
