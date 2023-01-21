@@ -109,22 +109,10 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark)
-
-<div style="display:flex;"><div valign="top" width="60%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" align="left" style="width: 100%; height:87%" />
-
-</div><div valign="top" width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark" align="left" style="width: 100%" />
-
-</div></div>  
-
-<br/>  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=jupyternotebook)
 
 ![snake gif](https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg)
 
