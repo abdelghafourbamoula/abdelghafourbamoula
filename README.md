@@ -49,7 +49,7 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 
 
 ### Programming  
-<div align="center">  
+<div >  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -66,7 +66,7 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 
 
 ### DevOps  
-<div align="center">  
+<div >  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
@@ -79,7 +79,7 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 
 
 ### Data Science  
-<div align="center">  
+<div>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
@@ -91,7 +91,7 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 
 
 ### Database  
-<div align="center">  
+<div >  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -110,6 +110,19 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 ![trophy](https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark)
+
+<div style="display:flex;">
+<div  width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" align="left" style="width: 100%; height:87%" />
+
+</div><div width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark" align="left" style="width: 100%" />
+
+</div></div>  
+
+<br/>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark)
