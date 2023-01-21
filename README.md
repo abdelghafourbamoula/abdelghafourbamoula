@@ -29,14 +29,13 @@
 ---
 
 ### :man_technologist:: About Me :
-I am Information System & Big Data Specialist  <img src="https://media.giphy.com/media/d7dA5dMEqDc7Y0Bab8/giphy.gif" width="30"> from Morocco.
+I am a Data Science and BI Specialist from Morocco. <img src="https://media.giphy.com/media/d7dA5dMEqDc7Y0Bab8/giphy.gif" width="30">
 
 - :telescope: I’m currently a Big Data and Information System Student
 
-- :zap: I'm interested math and statistics, problem solving, AI, data science, Business Intelligence, Data Analysis ...
+- :zap: I'm interested in math and statistics, problem solving, AI, data science, Business Intelligence, Data Analysis ...
 
-- :seedling: Exploring Hadoop Ecosystem and machine learning algorithms
-
+- :seedling: I'm focusing Exploring Hadoop Ecosystem,machine learning algorithms, and NLP
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelghafourbamoula@gmail)
 
@@ -45,7 +44,6 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 ### :hammer_and_wrench: Languages and Tools :
 
 <table><tr><td valign="top" width="50%">
-
 
 ### Programming  
 <div >  
@@ -60,9 +58,7 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a> 
-
-
-
+<img style="margin: 10px" src="./icons/JavaFX.png" alt="javafx" height="50" />
 </div>  
 
 ### DevOps  
@@ -71,14 +67,13 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 <img style="margin: 10px" src=https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" alt="rstudio" height="50" />
-
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a> 
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" height="50" />
-
+<img style="margin: 10px" src="./icons/icons8-selenium.svg" alt="selenuim" height="50" />
 </div>
 
 </td><td valign="top" width="50%">
@@ -87,18 +82,18 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 ### Data Science  
 <div>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a> 
+<img style="margin: 10px" src="./icons/scikit_learn.png" alt="scikit-learn" height="50" /> 
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" height="50" />
-
+<img style="margin: 10px" src="./icons/scipy.svg" alt="scipy" height="50" />
+<img style="margin: 10px" src="./icons/matplotlib.png" alt="matplotlib" height="50" />
+<img style="margin: 10px" src="./icons/chartjs.svg" alt="chartjs" height="50" />
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-
 </div>  
-
-
 
 ### Database  
 <div >  
@@ -107,43 +102,41 @@ I am Information System & Big Data Specialist  <img src="https://media.giphy.com
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 <img style="margin: 10px" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" alt="sql server" height="50" />
-
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" height="50" />
 </div>
 
 </td></tr></table>  
-
 <br/>  
-
 
 ---
 
 ### :fire: My Stats :
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=jupyternotebook)
-
-![snake gif](https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark" width="100%" />
+<div width="100%" style="display:flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" width="60%" height="85%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=html" width="40%" height="100%" />
+</div>
+<img src="https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg" width="40%" height="100%" />
 
 <br/>  
-
 <div align="center">
-            <a href="https://paypal.me/abdelghafourbamoula" target="_blank" style="display: inline-block;">
+            <a href="https://www.upwork.com/freelancers/~01c2865e12817cf04d" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    src="https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white" 
                     align="center"
                 />
             </a>
             <a href="https://www.buymeacoffee.com/abdelghafourbamoula" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+              <a href="https://paypal.me/abdelghafourbamoula" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
             </a></div>
