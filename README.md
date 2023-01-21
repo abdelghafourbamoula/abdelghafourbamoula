@@ -114,7 +114,7 @@ I am a Data Science and BI Specialist from Morocco. <img src="https://media.giph
 
 <img src="https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark" />
-<div  style="display:flex;">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=html" />
 </div>
