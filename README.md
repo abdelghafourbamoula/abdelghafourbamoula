@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/KeEBCRFDk6XVoSLzhF/giphy.gif" width="100"/>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/abdelghafour-bamoula-74075b22a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/abdelghafourbamoula">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -113,12 +113,12 @@ I am a Data Science and BI Specialist from Morocco. <img src="https://media.giph
 ### :fire: My Stats :
 
 <img src="https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark" />
 <div  style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" height="85%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=html" height="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=html" />
 </div>
-<img src="https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg" height="100%" />
+<img src="https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg" />
 
 <br/>  
 <div align="center">
