@@ -5,11 +5,14 @@
   <a href="https://www.linkedin.com/in/abdelghafour-bamoula-74075b22a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/abdelghafourbamoula">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://www.credly.com/users/bamoula-abdelghfourbamoula-gmail-com/badges">
+    <img src="https://img.shields.io/badge/credly-darken?style=for-the-badge&logo=credly&logoColor=whit" alt="Twitter Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+      <a href="https://www.instagram.com/abdelghafourbamoula">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
