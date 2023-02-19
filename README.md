@@ -8,7 +8,7 @@
     <a href="https://www.credly.com/users/bamoula-abdelghfourbamoula-gmail-com/badges">
     <img src="https://img.shields.io/badge/credly-darken?style=for-the-badge&logo=credly&logoColor=whit" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/abdelghafour_ba">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
       <a href="https://www.instagram.com/abdelghafourbamoula">
