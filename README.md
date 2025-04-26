@@ -11,8 +11,8 @@
   <a href="https://twitter.com/abdelghafour_ba">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-      <a href="https://www.instagram.com/abdelghafourbamoula">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+      <a href="https://www.upwork.com/freelancers/~01c2865e12817cf04d">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
 </div>
 
@@ -31,85 +31,104 @@
 
 ---
 
-### :man_technologist:: About Me :
-I am a Data Science and BI Specialist from Morocco. <img src="https://media.giphy.com/media/d7dA5dMEqDc7Y0Bab8/giphy.gif" width="30">
+### :man_technologist: About Me :
+I am a Data Scientist and Cloud Solutions Expert from Morocco. <img src="https://media.giphy.com/media/d7dA5dMEqDc7Y0Bab8/giphy.gif" width="30">
 
-- :telescope: I’m currently a Big Data and Information System Student
+- 🎓 Master's in Data Science & Engineering
+- 📚 Bachelor's in Big Data
+- ☁️ AWS & Azure Certified
+- 🔧 Python & Data Solutions Expert
+- 🤖 Specializing in AI, ML, and Data Engineering
+- 🚀 Passionate about turning data into business value
 
-- :zap: I'm interested in math and statistics, problem solving, AI, data science, Business Intelligence, Data Analysis ...
+I help businesses unlock the power of their data through:
+- 📊 Data Science & Analytics
+- 🤖 AI & Machine Learning Solutions
+- ☁️ Cloud & Data Engineering
+- 🔄 Process Automation
+- 📈 Business Intelligence
 
-- :seedling: I'm focusing Exploring Hadoop Ecosystem,machine learning algorithms, and NLP
-
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelghafourbamoula@gmail)
+:mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelghafourbamoula@gmail.com)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Core Expertise:
 
 <table><tr><td valign="top" width="50%">
 
-### Programming  
-<div >  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="Scala" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a> 
-<img style="margin: 10px" src="./icons/JavaFX.png" alt="javafx" height="50" />
-</div>  
+### Data Science & AI  
+- Machine Learning & Deep Learning
+- LLMs & Generative AI
+- AI Agents & RAG Systems
+- Predictive Analytics
+- Natural Language Processing
+- Computer Vision
+- Statistical Analysis
 
-### DevOps  
-<div >  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" alt="rstudio" height="50" />
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a> 
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" height="50" />
-<img style="margin: 10px" src="./icons/icons8-selenium.svg" alt="selenuim" height="50" />
-</div>
+### Cloud & DevOps
+- AWS & Azure Services
+- Infrastructure as Code
+- CI/CD Pipelines
+- Docker & Containerization
+- Data Pipeline Development
+- ETL/ELT Processes
+- Monitoring & Logging
 
 </td><td valign="top" width="50%">
+
+### Data Engineering
+- Big Data Processing
+- Data Warehousing
+- Database Design
+- ETL Pipeline Development
+- Data Integration
+- Data Quality & Governance
+- Performance Optimization
+
+### Business Intelligence
+- Power BI
+- Tableau
+- Dashboard Development
+- Data Visualization
+- KPI Monitoring
+- Business Analytics
+- Report Automation
+
+</td></tr></table>
+
+---
+
+### 🎯 Current Focus
+- Building scalable AI solutions
+- Developing RAG systems and LLM applications
+- Cloud-native architectures
+- Process automation
+- Continuous learning and improvement
+
+---
+
+### AI & Advanced Technologies
+<div>
+<img style="margin: 10px" src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Crew_AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Crew AI" />
+<img style="margin: 10px" src="https://img.shields.io/badge/RAG-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="RAG" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Ollama-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Ollama" />
+<img style="margin: 10px" src="https://img.shields.io/badge/LLMs-0467DF?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+<img style="margin: 10px" src="https://img.shields.io/badge/AI_Agents-512BD4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="AI Agents" />
 </div>
 
-### Data Science  
-<div>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a> 
-<img style="margin: 10px" src="./icons/scikit_learn.png" alt="scikit-learn" height="50" /> 
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" height="50" />
-<img style="margin: 10px" src="./icons/scipy.svg" alt="scipy" height="50" />
-<img style="margin: 10px" src="./icons/matplotlib.png" alt="matplotlib" height="50" />
-<img style="margin: 10px" src="./icons/chartjs.svg" alt="chartjs" height="50" />
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-</div>  
+---
 
-### Database  
-<div >  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<img style="margin: 10px" src="./icons/microsoft-sql-server-96.svg" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" height="50" />
-</div>
+### 📂 Portfolio & Confidentiality
+While most of my previous work contains confidential information and was completed within organizations, I maintain sample projects and demos that showcase my technical capabilities:
 
-</td></tr></table>  
-<br/>  
+- 🤖 AI & Machine Learning Projects
+- 🔄 ETL Pipeline Examples
+- ☁️ Cloud Infrastructure Templates
+- 📊 Data Visualization Samples
+- 🚀 Process Automation Scripts
+
+*Note: All shared code and examples respect client confidentiality and privacy.*
 
 ---
 
@@ -130,12 +149,6 @@ I am a Data Science and BI Specialist from Morocco. <img src="https://media.giph
             <a href="https://www.upwork.com/freelancers/~01c2865e12817cf04d" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/abdelghafourbamoula" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
             </a>
