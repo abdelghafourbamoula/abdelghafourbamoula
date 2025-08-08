@@ -32,14 +32,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist and Cloud Solutions Expert from Morocco. <img src="https://media.giphy.com/media/d7dA5dMEqDc7Y0Bab8/giphy.gif" width="30">
-
-- 🎓 Master's in Data Science & Engineering
-- 📚 Bachelor's in Big Data
-- ☁️ AWS & Azure Certified
-- 🔧 Python & Data Solutions Expert
-- 🤖 Specializing in AI, ML, and Data Engineering
-- 🚀 Passionate about turning data into business value
+I am a Data Scientist, AI & Python Developer, with experties in Automation and Cloud  Solutions <img src="https://media.giphy.com/media/d7dA5dMEqDc7Y0Bab8/giphy.gif" width="30">
 
 I help businesses unlock the power of their data through:
 - 📊 Data Science & Analytics
