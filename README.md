@@ -5,7 +5,7 @@
 <h1>
   Hi there, I'm Abdelghafour Bamoula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3>Senior AI Engineer | Data Scientist | Cloud Solutions Architect</h3>
+<h3>Senior AI Engineer | Data Scientist | Python Dev</h3>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdelghafourbamoula">
