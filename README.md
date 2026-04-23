@@ -1,154 +1,133 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/KeEBCRFDk6XVoSLzhF/giphy.gif" width="100"/>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/abdelghafour-bamoula-74075b22a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://www.credly.com/users/bamoula-abdelghfourbamoula-gmail-com/badges">
-    <img src="https://img.shields.io/badge/credly-darken?style=for-the-badge&logo=credly&logoColor=whit" alt="Twitter Badge"/>
-  </a>
-  <a href="https://twitter.com/abdelghafour_ba">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-      <a href="https://www.upwork.com/freelancers/~01c2865e12817cf04d">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=abdelghafourbamoula&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=abdelghafourbamoula&style=flat-square&color=blue" alt="Profile Views"/>
 
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there, I'm Abdelghafour Bamoula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h3>Senior AI Engineer | Data Scientist | AI / MLOps Solutions Architect</h3>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/abdelghafourbamoula">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.credly.com/users/bamoula-abdelghfourbamoula-gmail-com/badges">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+  </a>
+  <a href="mailto:abdelghafourbamoula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"/>
+<br/>
+
+*Bridging the gap between advanced AI research and production-grade enterprise systems.*
+
 </div>
 
 ---
 
-### :man_technologist: About Me :
-I am a Data Scientist, AI & Python Developer, with experties in Automation and Cloud  Solutions <img src="https://media.giphy.com/media/d7dA5dMEqDc7Y0Bab8/giphy.gif" width="30">
+### :man_technologist: About Me
 
-I help businesses unlock the power of their data through:
-- 📊 Data Science & Analytics
-- 🤖 AI & Machine Learning Solutions
-- ☁️ Cloud & Data Engineering
-- 🔄 Process Automation
-- 📈 Business Intelligence
+I am a **Senior AI Engineer & Data Scientist** specializing in **Agentic Workflows, MLOps, and Cloud Native Architectures**. Currently pursuing an Executive PhD focused on MLOps infrastructure for Agentic AI, I help enterprises transform complex data into scalable, secure, and intelligent solutions.
 
-:mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelghafourbamoula@gmail.com)
+My "Full Stack Data" approach means I don't just build models; I design the infrastructure, orchestrate the data pipelines, and deploy secure APIs to production.
+
+**What I do best:**
+- 🧠 **Generative AI & Agents:** Architecting autonomous multi-agent systems, RAG pipelines, and integrating Model Context Protocol (MCP).
+- ☁️ **Cloud & MLOps:** Deploying scalable, secure AI microservices on Azure & AWS (Docker, CI/CD, Serverless).
+- 📊 **Data Engineering:** Building robust ETL/ELT pipelines and handling large-scale data processing.
 
 ---
 
-### 🛠️ Core Expertise:
+### 🛠️ Core Expertise
 
 <table><tr><td valign="top" width="50%">
 
-### Data Science & AI  
-- Machine Learning & Deep Learning
-- LLMs & Generative AI
-- AI Agents & RAG Systems
-- Predictive Analytics
-- Natural Language Processing
-- Computer Vision
-- Statistical Analysis
+#### 🤖 Generative AI & ML
+- LLMs (GPT-4, Claude, Llama, Mistral)
+- Agentic AI & LangGraph
+- Advanced RAG & Vector Search
+- Model Context Protocol (MCP)
+- Prompt Engineering & Guardrails
+- Model Evaluation (Ragas)
 
-### Cloud & DevOps
-- AWS & Azure Services
-- Infrastructure as Code
-- CI/CD Pipelines
-- Docker & Containerization
-- Data Pipeline Development
-- ETL/ELT Processes
-- Monitoring & Logging
+#### ☁️ Cloud & MLOps
+- Microsoft Azure & AWS
+- Docker & Kubernetes
+- CI/CD Pipelines (GitLab, GitHub Actions)
+- MLflow & Model Registry
+- Serverless Computing (Azure Functions, Lambda)
+- Infrastructure as Code (IaC)
 
 </td><td valign="top" width="50%">
 
-### Data Engineering
-- Big Data Processing
-- Data Warehousing
-- Database Design
-- ETL Pipeline Development
-- Data Integration
-- Data Quality & Governance
-- Performance Optimization
+#### ⚙️ Data & Backend Engineering
+- Python (Expert) & FastAPI
+- Apache Spark & Databricks
+- PostgreSQL & pgvector
+- Graph Databases (Neo4j)
+- ETL/ELT Pipeline Development
+- REST API Design
 
-### Business Intelligence
-- Power BI
-- Tableau
-- Dashboard Development
-- Data Visualization
-- KPI Monitoring
-- Business Analytics
-- Report Automation
+#### 📈 Business Intelligence & Analytics
+- Data Modeling & Architecture
+- Statistical Analysis
+- Power BI & Dashboarding
+- Performance Optimization
+- Tech Leadership & Agile Delivery
 
 </td></tr></table>
 
 ---
 
-### 🎯 Current Focus
-- Building scalable AI solutions
-- Developing RAG systems and LLM applications
-- Cloud-native architectures
-- Process automation
-- Continuous learning and improvement
+### 🚀 Tech Stack
 
----
-
-### AI & Advanced Technologies
-<div>
-<img style="margin: 10px" src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Crew_AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Crew AI" />
-<img style="margin: 10px" src="https://img.shields.io/badge/RAG-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="RAG" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Ollama-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Ollama" />
-<img style="margin: 10px" src="https://img.shields.io/badge/LLMs-0467DF?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-<img style="margin: 10px" src="https://img.shields.io/badge/AI_Agents-512BD4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="AI Agents" />
+<div align="center">
+  <img style="margin: 5px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </div>
 
 ---
 
-### 📂 Portfolio & Confidentiality
-While most of my previous work contains confidential information and was completed within organizations, I maintain sample projects and demos that showcase my technical capabilities:
+### :fire: GitHub Stats
 
-- 🤖 AI & Machine Learning Projects
-- 🔄 ETL Pipeline Examples
-- ☁️ Cloud Infrastructure Templates
-- 📊 Data Visualization Samples
-- 🚀 Process Automation Scripts
-
-*Note: All shared code and examples respect client confidentiality and privacy.*
-
----
-
-### :fire: My Stats :
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark" />
-<div align="left">
-<a href="#">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide=html" />
-</a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelghafourbamoula&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
-<img src="https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg" />
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/abdelghafourbamoula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelghafourbamoula&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghafourbamoula&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghafourbamoula&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Ensure the snake animation action is correctly set up in your repo workflows to output this file -->
+  <img src="https://github.com/abdelghafourbamoula/abdelghafourbamoula/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 <br/>  
+
 <div align="center">
-            <a href="https://www.upwork.com/freelancers/~01c2865e12817cf04d" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white" 
-                    align="center"
-                />
-            </a>
-              <a href="https://paypal.me/abdelghafourbamoula" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://www.upwork.com/freelancers/~01c2865e12817cf04d" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/UpWork-14A800?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Profile"/>
+  </a>
+</div>
 <br />
