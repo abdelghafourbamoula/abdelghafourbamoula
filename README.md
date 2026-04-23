@@ -125,9 +125,11 @@ My "Full Stack Data" approach means I don't just build models; I design the infr
 
 <br/>  
 
+<!--
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~01c2865e12817cf04d" target="_blank" style="display: inline-block;">
       <img src="https://img.shields.io/badge/UpWork-14A800?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Profile"/>
   </a>
 </div>
 <br />
+-->
